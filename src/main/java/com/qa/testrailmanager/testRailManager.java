@@ -10,8 +10,8 @@ import java.util.Map;
 public class testRailManager {
 
     public static String Test_Run_ID = "12";
-    public static String Testrail_Username = "mohamed.mahrous@btech.com";
-    public static String Testrail_Password = "Mm@262422";
+    public static String Testrail_Username = "enter username";
+    public static String Testrail_Password = "enter password";
     public static String Testrail_Engine_URL = "https://btechlabs.testrail.io";
     public static int Testrail_Pass_Status = 1;
     public static int Testrail_Fail_Status = 5;
